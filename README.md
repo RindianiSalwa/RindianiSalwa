@@ -8,13 +8,10 @@
 
 ---
 
-🔭 I’m currently working on:  
-- 💻 Heart Failure Prediction App using **Kotlin + TensorFlow Lite**
-- 📰 A Flutter News App with API integration and smooth UI
-- 📖 A Simple Al-Qur'an App built with Kotlin + RecyclerView
-
-🌱 I’m currently learning:  
-- Jetpack Compose, Flutter BLoC, REST API Integration
+### 🔭Featured Projects  
+- 💻 **Heart Failure Prediction App** using Kotlin + TensorFlow Lite  
+- 📰 **Flutter News App** with API integration and smooth UI  
+- 📖 **Simple Al-Qur'an App** built with Kotlin + RecyclerView  
 
 📫 Reach me at:  
 - ✉️ salwarindiani213@gmail.com
