@@ -9,7 +9,7 @@
 ---
 
 ### 🔭Featured Projects  
-- 💻 **Heart Failure Prediction App** using Kotlin + TensorFlow Lite  
+- 🫀 **Heart Failure Prediction App** using Kotlin + TensorFlow Lite  
 - 📰 **Flutter News App** with API integration and smooth UI  
 - 📖 **Simple Al-Qur'an App** built with Kotlin + RecyclerView  
 
