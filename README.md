@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/H7wAjQpJFN4NOgVruA/giphy.gif" width="250" alt="Pink Computer" />
+  <img src="https://i.pinimg.com/originals/8e/32/fd/8e32fd08fdf2789cdba9fffa2fdf2732.gif" width="250" alt="Pink Computer" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Rindiani Salwa</h1>
 <h3 align="center">A passionate Mobile & Web App Developer</h3>
@@ -9,14 +10,14 @@
 
 🔭 I’m currently working on:  
 - 💻 Heart Failure Prediction App using **Kotlin + TensorFlow Lite**
-- 📱 A Flutter Form App with clean UI and responsive layout
-- 🌐 Web App Akademik berbasis **PHP + MySQL**
+- 📰 A Flutter News App with API integration and smooth UI
+- 📖 A Simple Al-Qur'an App built with Kotlin + RecyclerView
 
 🌱 I’m currently learning:  
 - Jetpack Compose, Flutter BLoC, REST API Integration
 
 📫 Reach me at:  
-- ✉️ rindianisalwa@email.com
+- ✉️ salwarindiani213@gmail.com
 
 ---
 
@@ -43,4 +44,4 @@
 
 ---
 
-> _"Code with passion, build with purpose."_ 🚀
+> _"I love to tinker, learn, and create."_ 🧠💻🚀
